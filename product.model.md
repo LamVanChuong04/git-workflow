@@ -1,1 +1,1 @@
-# Update product.model.md
+# Fixed product.model.md
